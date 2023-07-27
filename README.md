@@ -14,11 +14,11 @@ The real life pictures shown are of v1.0, the files are of v1.1. Between version
 
 <img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/PCBs.JPG" width="350">
 
-<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Faceplate_Top_Gerber.JPG" width="350">
+<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Faceplate_Top_Gerber.JPG" height="350">
 
-<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Faceplate_Bottom_Gerber.JPG" width="350">
+<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Faceplate_Bottom_Gerber.JPG" height="350">
 
-<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Spacer_Gerber.JPG" width="350">
+<img src="https://github.com/WildBuckwheat/AIO-Micro-Hammond-Faceplate/blob/main/Images/Spacer_Gerber.JPG" height="350">
 
 
 # Features
@@ -46,4 +46,4 @@ The hammond box uses 4x #6-3/8" screws to attach the faceplate. Countersunk scre
 
 # Ordering
 
-Upload the gerber files to your board manufacturer and double check that the selected PCB is 1.6mm thickness. 1.6mm is the default thickness of most board manufacturers.
+Upload the gerber files to your board manufacturer and double check that the selected PCB is 1.6mm thickness. 1.6mm is the default thickness of most board manufacturers. If ordering from JLCPCB, you should set "Remove Order Number" to "Specify a Location." That will place the order number on the JLCJLCJLCJLC placeholder.
